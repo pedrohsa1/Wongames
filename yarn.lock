@@ -5988,6 +5988,7 @@ __metadata:
     react-dom: "npm:^18"
     storybook: "npm:^7.6.5"
     styled-components: "npm:^6.1.1"
+    styled-media-query: "npm:^2.1.2"
     typescript: "npm:^5"
   languageName: unknown
   linkType: soft
@@ -15062,6 +15063,15 @@ __metadata:
     babel-plugin-macros:
       optional: true
   checksum: 42655cdadfa5388f8a48bb282d6b450df7d7b8cf066ac37038bd0499d3c9f084815ebd9ff9dfa12a218fd4441338851db79603498d7557207009c1cf4d609835
+  languageName: node
+  linkType: hard
+
+"styled-media-query@npm:^2.1.2":
+  version: 2.1.2
+  resolution: "styled-media-query@npm:2.1.2"
+  peerDependencies:
+    styled-components: ">= 1"
+  checksum: 26d1a8fd204b704d11fe2cd81c634c1ea8a6f6e2513fb6ca8fc5a1fc462732ce29fd7294ffb3b99599fb2388b3261469baa3b8058d987d0b7fbfd7b7caf6a3eb
   languageName: node
   linkType: hard
 
