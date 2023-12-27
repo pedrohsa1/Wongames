@@ -15,5 +15,6 @@ export const Default: StoryFn<HeadingProps> = (args) => <Heading {...args} />
 
 //Inserindo valor padrao no texto
 Default.args = {
-  children: 'Most Populars'
+  children: 'Most Populars',
+  color: 'white'
 }
