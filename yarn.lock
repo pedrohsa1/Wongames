@@ -6463,6 +6463,7 @@ __metadata:
     lint-staged: "npm:^15.2.0"
     next: "npm:14.0.4"
     plop: "npm:^4.0.0"
+    polished: "npm:^4.2.2"
     prettier: "npm:^3.1.1"
     react: "npm:^18"
     react-dom: "npm:^18"
